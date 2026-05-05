@@ -3,3 +3,4 @@ RENCANA PEMBUATAN WEBSITE RUSWEB
 - Membuat sturktur html
 - desain menggunakan web-nya
 - tambah javascript agar interaktif
+- mulai membuat portofolio
