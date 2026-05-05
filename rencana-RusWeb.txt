@@ -4,9 +4,10 @@ RENCANA PEMBUATAN WEBSITE RUSWEB
   * buat homepage
   * buat contactpage
   * buat servicepage
-- desain menggunakan web-nya
+- desain web-nya menggunakan menggunakan css
 - tambah javascript agar interaktif
 - mulai membuat portofolio
+- membuat form contact
 - belajar framework javascipt
   ^ vue
   ^ react
