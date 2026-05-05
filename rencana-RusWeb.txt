@@ -8,3 +8,5 @@ RENCANA PEMBUATAN WEBSITE RUSWEB
 - tambah javascript agar interaktif
 - mulai membuat portofolio
 - belajar framework javascipt
+  ^ vue
+  ^ react
