@@ -7,3 +7,6 @@ RENCANA PEMBUATAN WEBSITE RUSWEB
 - desain menggunakan web-nya
 - tambah javascript agar interaktif
 - mulai membuat portofolio
+- belajar framework javascipt
+  ^ vue
+  ^ react
